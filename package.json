@@ -10,10 +10,15 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~54.0.10",
-    "expo-status-bar": "~3.0.8",
-    "react": "19.1.0",
-    "react-native": "0.81.4"
+    "@hot-updater/cloudflare": "^0.20.11",
+    "@hot-updater/expo": "^0.20.11",
+    "@hot-updater/react-native": "^0.20.11",
+    "@hot-updater/sentry-plugin": "^0.20.11",
+    "expo": "^53.0.23",
+    "expo-status-bar": "~2.2.3",
+    "hot-updater": "^0.20.11",
+    "react": "19.0.0",
+    "react-native": "0.79.5"
   },
   "private": true
 }
